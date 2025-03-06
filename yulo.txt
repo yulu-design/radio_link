@@ -1,4 +1,4 @@
-udało się przeczytać plik
+udało sie przeczytac plik
 druga linia
 trzecia linia
 dupa.8

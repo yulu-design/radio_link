@@ -1,0 +1,3 @@
+udało się przeczytać plik
+druga linia
+trzecia linia

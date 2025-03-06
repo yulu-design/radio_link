@@ -1,3 +1,5 @@
 udało się przeczytać plik
 druga linia
 trzecia linia
+dupa.8
+wzgorza golan

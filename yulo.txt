@@ -6,9 +6,9 @@ PL Zetka
 http://zet-net-01.cdn.eurozet.pl:8400
 PL RMF Classic
 http://195.150.20.5:8000/rmf_classic
-ZLOTE PRZEBOJE WWA
+PL ZLOTE PRZEBOJE WWA
 https://radiostream.pl/tuba8936-1.mp3
-VOX
+PL VOX
 https://ic2.smcdn.pl/3990-1.mp3
-357
+PL RADIO 357
 https://n31a-eu.rcs.revma.com/an1ugyygzk8uv

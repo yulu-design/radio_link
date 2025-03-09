@@ -6,3 +6,5 @@ PL Zetka
 http://zet-net-01.cdn.eurozet.pl:8400
 PL RMF Classic
 http://195.150.20.5:8000/rmf_classic
+ZLOTE PRZEBOJE WWA
+https://radiostream.pl/tuba8936-1.mp3

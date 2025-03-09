@@ -1,5 +1,8 @@
-read file success
-jestes rzydkiem  
-WZGORZA GOLAN
-jebac pis
-i koinfe
+EL Stacja
+http://radio.el-stacja.pl:8000/elstacjamp3
+UK Paradise
+http://stream-uk1.radioparadise.com/mp3-128
+PL Zetka
+http://zet-net-01.cdn.eurozet.pl:8400
+PL RMF Classic
+http://195.150.20.5:8000/rmf_classic
